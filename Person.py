@@ -29,4 +29,3 @@ class Person:
         print("Ethnicity:{}".format(self.ethnicity))
         print("Height:{}".format(self.get_height_str()))
         print("Hair color: {}".format(self.hair_color))
-# get_height_str(), print_all_attributes()
